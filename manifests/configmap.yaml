@@ -9,7 +9,7 @@ data:
     <head><title>GitOps Demo</title></head>
     <body style="font-family: sans-serif; text-align:center; margin-top:100px;">
       <h1>Hello from GitOps 👋</h1>
-      <p>Version: v1</p>
+      <p>Version: v2</p>
       <p>Deployed via ArgoCD from Git</p>
     </body>
     </html>
